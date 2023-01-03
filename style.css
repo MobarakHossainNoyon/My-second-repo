@@ -1,3 +1,26 @@
 h1{
     background-color: antiquewhite;
+    text-align: center;
+    border: 2px solid rgb(3, 55, 87);
+    box-shadow: 5px 5px 10px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para{
+    border: 2px solid navy;
+    background-color: bisque;
+    text-align: justify;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+#foot{
+    border: 2px solid red;
+    background-color: rgb(185, 156, 156);
+    border-radius: 15px;
+}
+img{
+    align-self: right;
+    border: 2px solid navy;
+    border-radius: 25px;
 }
