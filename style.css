@@ -4,6 +4,8 @@ h1{
     border: 2px solid rgb(3, 55, 87);
     box-shadow: 5px 5px 10px black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+
 }
 .para{
     border: 2px solid navy;
@@ -12,25 +14,50 @@ h1{
     font-size: 22px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
+    padding: 15px;
+
+    
 
 }
 #foot{
-    border: 2px solid red;
-    background-color: rgb(185, 156, 156);
+    border: 2px solid navy;
+    background-color: darkgray;
     border-radius: 15px;
+    
+    font-size: 30px;
+    font-style: italic;
+    padding: 15px;
+
 }
 img{
-    align-self: right;
+    
     border: 2px solid navy;
     border-radius: 25px;
+    margin-left: 1000px;
+    margin-top: -450px;
+    width: 300px;
+    height: 400px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px navy;
+
 }
 #div1{
     background-color: antiquewhite;
     border: 5px solid navy;
+    color: brown;
+    font-size: 30px;
+    width: 70%;
+    padding: 15px;
+    margin-top: 120px;
+
+    
 }
 h3{
     text-align: center;
     font-size: 28px;
+    font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    padding: 15px;
+
+
 }
